@@ -1,9 +1,9 @@
 import './App.css';
 
-const App = () => {
+const App = (props) => {
   return (
     <div>
-
+      
     </div>
   );
 }
