@@ -1,0 +1,373 @@
+[
+  {
+    "diver_name": "Leyla M.",
+    "DOT": "3768492",
+    "MC": "9087752",
+    "phone": "555-555-0001",
+    "po_number": "8484848",
+    "current_load": {
+      "origin": "Dallas, TX",
+      "destination": "Laredo, TX",
+      "departure_time": "Jan. 31 16:00",
+      "arrival_time": "Feb. 1 08:00"
+      }
+  },
+
+  {
+    "diver_name": "Dmitri S.",
+    "DOT": "3452896",
+    "MC": "8987502",
+    "phone": "555-555-0002",
+    "po_number": "2323232",
+    "current_load": {
+      "origin": "Oklahoma City, OK",
+      "destination": "Boise, ID",
+      "departure_time": "Jan. 31 10:00",
+      "arrival_time": "Feb. 2 06:00"
+      }
+  },
+
+  {
+    "diver_name": "Trent L.",
+    "DOT": "8887659",
+    "MC": "5857461",
+    "phone": "555-555-0003",
+    "po_number": 
+    "current_load": {
+      "origin": "Denver, CO",
+      "destination": "Van Nuys, CA",
+      "departure_time": "Jan. 31 09:00",
+      "arrival_time": "Feb. 1 20:00"
+      }
+  },
+
+  {
+    "diver_name": "Kris P.",
+    "DOT": "5658391",
+    "MC": "0097842",
+    "phone": "555-555-0004",
+    "po_number": "7768291",
+    "current_load":
+      {
+      "origin": "Pheonix, AZ",
+      "destination": "Flagstaff, AZ",
+      "departure_time": "Jan. 31 10:00",
+      "arrival_time": "Feb. 1 05:00"
+      }
+  },
+
+  {
+    "diver_name": "Joel S.",
+    "DOT": "7574812",
+    "MC": "9948276",
+    "phone": "555-555-0005",
+    "po_number": "9008371",
+    "current_load":
+      {
+      "origin": "Amarillo, TX",
+      "destination": "Monroe, LA",
+      "departure_time": "Jan. 31 08:00",
+      "arrival_time": "Feb. 1 15:00"
+      }
+  },
+
+  {
+    "diver_name": "Sebastian M.",
+    "DOT": "8847621",
+    "MC": "9098135",
+    "phone": "555-555-0006",
+    "po_number": "8873134",
+    "current_load":
+      {
+      "origin": "Portland, OR",
+      "destination": "Culver City, CA",
+      "departure_time": "Jan. 31 10:00",
+      "arrival_time": "Feb. 2 04:00"
+      }
+  },
+
+  {
+    "diver_name": "Dustin H.",
+    "DOT": "9117823",
+    "MC": "5574809",
+    "phone": "555-555-0007",
+    "po_number": "5548399",
+    "current_load":
+      {
+      "origin": "Santa Fe, NM",
+      "destination": "Minneapolis, MN",
+      "departure_time": "Jan. 31 09:00",
+      "arrival_time": "Feb. 2 14:00"
+      }
+  },
+
+  {
+    "diver_name": "Luke A.",
+    "DOT": "8849132",
+    "MC": "4475869",
+    "phone": "555-555-0008",
+    "po_number": "9807634",
+    "current_load":
+      {
+      "origin": "Seattle, WA",
+      "destination": "Honolulu, HI",
+      "departure_time": "Jan. 31 11:00",
+      "arrival_time": "Feb. 1 04:00"
+      }
+  },
+
+  {
+    "diver_name": "Harry K.",
+    "DOT": "8834621",
+    "MC": "5590482",
+    "phone": "555-555-0009",
+    "po_number": "5584931",
+    "current_load":
+      {
+      "origin": "Longview, TX",
+      "destination": "Plainview, TX",
+      "departure_time": "Jan. 31 10:00",
+      "arrival_time": "Feb. 1 12:00"
+      }
+  },
+
+  {
+    "diver_name": "Aaron A.",
+    "DOT": "5757575",
+    "MC": "9292929",
+    "phone": "555-555-0010",
+    "po_number": "3434343",
+    "current_load":
+      {
+      "origin": "Frisco, TX",
+      "destination": "McAllen, TX",
+      "departure_time": "Jan. 31 16:00",
+      "arrival_time": "Feb. 1 12:00"
+      }
+  },
+
+  {
+    "diver_name": "Alex M.",
+    "DOT": "9999999",
+    "MC": "8888888",
+    "phone": "555-555-0011",
+    "po_number": "1234567",
+    "current_load":
+      {
+      "origin": "Dallas, TX",
+      "destination": "Baltimore, MD",
+      "departure_time": "Jan. 31 08:00",
+      "arrival_time": "Feb. 2 16:00"
+      }
+  },
+
+  {
+    "diver_name": "Reid M.",
+    "DOT": "4343431",
+    "MC": "1231231",
+    "phone": "555-555-0012",
+    "po_number": "7654321",
+    "current_load":
+      {
+      "origin": "Midland, TX",
+      "destination": "Baton Rouge, LA",
+      "departure_time": "Jan. 31 13:00",
+      "arrival_time": "Feb. 1 10:00"
+      }
+  },
+
+{
+    "diver_name": "Mark M.",
+    "DOT": "8080843",
+    "MC": "5757424",
+    "phone": "555-555-0013",
+    "po_number": "7896540",
+    "current_load":
+      {
+      "origin": "Memphis, TN",
+      "destination": "Richmond, VA",
+      "departure_time": "Jan. 31 11:00",
+      "arrival_time": "Feb. 1 13:00"
+      }
+  },
+
+  {
+    "diver_name": "Bryce D.",
+    "DOT": "4477338",
+    "MC": "9911882",
+    "phone": "555-555-0014",
+    "po_number": "0192837",
+    "current_load":
+      {
+      "origin": "Irving, TX",
+      "destination": "Pensacola, FL",
+      "departure_time": "Jan. 31 20:00",
+      "arrival_time": "Feb. 2 05:00"
+      }
+  },
+
+  {
+    "diver_name": "Harry P.",
+    "DOT": "4477338",
+    "MC": "9922881",
+    "phone": "555-555-0015",
+    "po_number": "3829107",
+    "current_load":
+      {
+      "origin": "San Jose, CA",
+      "destination": "Ogden, UT",
+      "departure_time": "Jan. 31 10:00",
+      "arrival_time": "Feb. 1 12:00"
+      }
+  },
+
+  {
+    "diver_name": "La Monte Y.",
+    "DOT": "9191827",
+    "MC": "2828191",
+    "phone": "555-555-0016",
+    "po_number": "4321567",
+    "current_load":
+      {
+      "origin": "El Paso, TX",
+      "destination": "Carlsbad, CA",
+      "departure_time": "Jan. 31 17:00",
+      "arrival_time": "Feb. 1 20:00"
+      }
+  },
+
+  {
+    "diver_name": "Meredith M.",
+    "DOT": "8473625",
+    "MC": "1526374",
+    "phone": "555-555-0017",
+    "po_number": "1426357",
+    "current_load":
+      {
+      "origin": "SeaTac, WA",
+      "destination": "Bozeman, MT",
+      "departure_time": "Jan. 31 18:00",
+      "arrival_time": "Feb. 1 22:00"
+      }
+  },
+
+  {
+    "diver_name": "Rhiannon G.",
+    "DOT": "8987898",
+    "MC": "7876787",
+    "phone": "555-555-0018",
+    "po_number": "8484736",
+    "current_load":
+      {
+      "origin": "Tampa, FL",
+      "destination": "Philadelphia, PA",
+      "departure_time": "Jan. 31 10:00",
+      "arrival_time": "Feb. 2 14:00"
+      }
+  },
+
+  {
+    "diver_name": "Pamela Z.",
+    "DOT": "1010101",
+    "MC": "0101010",
+    "phone": "555-555-0019",
+    "po_number": "9182736",
+    "current_load":
+      {
+      "origin": "San Francisco, CA",
+      "destination": "Scottsdale, AZ",
+      "departure_time": "Jan. 31 09:00",
+      "arrival_time": "Feb. 1 21:00"
+      }
+  },
+
+  {
+    "diver_name": "Amanda J.",
+    "DOT": "8686868",
+    "MC": "6868686",
+    "phone": "555-555-0020",
+    "po_number": "3535646",
+    "current_load":
+      {
+      "origin": "Los Angeles, CA",
+      "destination": "Buffalo, NY",
+      "departure_time": "Jan. 31 08:00",
+      "arrival_time": "Feb. 3 10:00"
+      }
+  },
+
+  {
+    "diver_name": "Gustavo S.",
+    "DOT": "4455667",
+    "MC": "7766554",
+    "phone": "555-555-0021",
+    "po_number": "4321432",
+    "current_load":
+      {
+      "origin": "Atlanta, GA",
+      "destination": "Washington, DC",
+      "departure_time": "Jan. 31 17:00",
+      "arrival_time": "Feb. 2 06:00"
+      }
+  },
+
+  {
+    "diver_name": "Jennifer H.",
+    "DOT": "1112223",
+    "MC": "3332221",
+    "phone": "555-555-0022",
+    "po_number": "5544332",
+    "current_load":
+      {
+      "origin": "Anchorage, AK",
+      "destination": "Juneau, AK",
+      "departure_time": "Jan. 31 10:00",
+      "arrival_time": "Feb. 2 14:00"
+      }
+  },
+
+  {
+    "diver_name": "Raven C.",
+    "DOT": "0000000",
+    "MC": "1111111",
+    "phone": "555-555-0023",
+    "po_number": "2222222",
+    "current_load":
+      {
+      "origin": "Santa Fe, NM",
+      "destination": "Santa Barbara, CA",
+      "departure_time": "Jan. 31 12:00",
+      "arrival_time": "Feb. 1 22:00"
+      }
+  },
+
+  {
+    "diver_name": "Erin A.",
+    "DOT": "9876543",
+    "MC": "3456789",
+    "phone": "555-555-0024",
+    "po_number": "9191827",
+    "current_load":
+      {
+      "origin": "DesMoines, IA",
+      "destination": "Madison, WI",
+      "departure_time": "Jan. 31 18:00",
+      "arrival_time": "Feb. 1 10:00"
+      }
+  },
+
+  {
+    "diver_name": "Katy P.",
+    "DOT": "0192837",
+    "MC": "4839201",
+    "phone": "555-555-0025",
+    "po_number": "1098765",
+    "current_load":
+      {
+      "origin": "Ann Arbor, MI",
+      "destination": "Columbus, OH",
+      "departure_time": "Jan. 31 11:00",
+      "arrival_time": "Feb. 1 18:00"
+      }
+  }
+]
