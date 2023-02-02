@@ -12,6 +12,9 @@ const App = () => {
       <div className='flexRow'>
         {driverData.map((data) => {
           return (
+            /*(<div className="cardTitle">
+            <Mc companyName={data.company_name}/>
+            </div> )*/
             <div class="card">
               <Mc companyName={data.company_name} mc={data.MC} phone={data.phone} />
               <Driver driverName={data.diver_name} mcNumber={data.MC} dotNumber={data.DOT} />
