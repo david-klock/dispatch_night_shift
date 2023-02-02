@@ -46,8 +46,8 @@ body {
 }
 
 .lowerCard {
-  margin: 0;
-  background-color: black;
+  padding: 0;
+  color: #88d2be;
 }
 
 .companyName{
