@@ -45,6 +45,11 @@ body {
   box-shadow: 5px 5px 6px rgb(0 16 26 / 0.2);
 }
 
+.lowerCard {
+  margin: 0;
+  background-color: black;
+}
+
 .companyName{
   text-align: center;
   text-align: center;
