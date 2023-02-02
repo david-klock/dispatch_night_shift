@@ -27,6 +27,8 @@ body {
   flex-wrap: wrap;
   justify-content: space-evenly;
   background-color: #202020;
+  padding-left: 100px;
+  padding-right: 100px;
   /*background-color: #a3b3ba;*/
 }
 
@@ -39,15 +41,15 @@ body {
   margin-bottom: 12px;
   background-color: #343434;
   color: #ffffff;
-  /*background-color: #dbe1e4;
-  box-shadow: 5px 5px 6px rgb(0 16 26 / 0.2);*/ 
+  /*background-color: #dbe1e4;*/
+  box-shadow: 5px 5px 6px rgb(0 16 26 / 0.2);
 }
 
 .companyName{
   text-align: center;
   text-align: center;
   font-size: 2rem;
-  font-weight: 300;
+  font-weight: 330;
   font-variant-caps: all-small-caps;
   background-color: #343434;
   color: #88d2be;
