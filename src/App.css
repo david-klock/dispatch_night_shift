@@ -16,8 +16,9 @@ body {
   align-items: center;  
   font-size: 3rem;
   font-weight: 200;
-  color: #DBE1E4;
-  background-color: #002A42;
+  background-color: black;
+  color: #88d2be;
+  /*background-color: #002A42;*/
   margin: 0;
 }
 
@@ -25,18 +26,21 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  background-color: #a3b3ba;
+  background-color: #202020;
+  /*background-color: #a3b3ba;*/
 }
 
 .card {
-  border: 2px solid;
-  border-color: #002A42;
+  /*border: 2px solid;
+  border-color: black;*/
   border-radius: 2pc;
   padding: 12px;
   margin-top: 12px;
   margin-bottom: 12px;
-  background-color: #dbe1e4;
-  
+  background-color: #343434;
+  color: #ffffff;
+  /*background-color: #dbe1e4;
+  box-shadow: 5px 5px 6px rgb(0 16 26 / 0.2);*/ 
 }
 
 .companyName{
@@ -45,9 +49,12 @@ body {
   font-size: 2rem;
   font-weight: 300;
   font-variant-caps: all-small-caps;
-  color: #764422;
-  background-color: #8cbee0;
+  background-color: #343434;
+  color: #88d2be;
+  /*color: #764422;
+  background-color: #8cbee0;*/
   margin: 1rem 0;
+  border-radius: .5pc;
 }
 
 h2 {
