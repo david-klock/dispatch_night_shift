@@ -36,13 +36,15 @@ body {
   margin-top: 12px;
   margin-bottom: 12px;
   background-color: #dbe1e4;
+  
 }
 
 .companyName{
   text-align: center;
   text-align: center;
   font-size: 2rem;
-  font-weight: 200;
+  font-weight: 300;
+  font-variant-caps: all-small-caps;
   color: #764422;
   background-color: #8cbee0;
   margin: 1rem 0;
@@ -50,8 +52,12 @@ body {
 
 h2 {
   text-align: center;
+  font-size: 1.5rem;
+  font-weight: 200;
 }
 
 h3 {
+  font-size: 1.2rem;
+  font-weight: 200;
   text-align: center;
 }

@@ -15,8 +15,8 @@ const App = () => {
             <div class="card">
               <Mc companyName={data.company_name} mc={data.MC} phone={data.phone} />
               <Driver driverName={data.diver_name} mcNumber={data.MC} dotNumber={data.DOT} />
-              <Load origin={data.current_load.origin} departureTime={data.current_load.departure_time} destination={data.current_load.destination} arrivalTime={data.current_load.arrival_time}/>
               <Reference poNumber={data.po_number} />
+              <Load origin={data.current_load.origin} departureTime={data.current_load.departure_time} destination={data.current_load.destination} arrivalTime={data.current_load.arrival_time}/>
             </div>
           )
         })}
