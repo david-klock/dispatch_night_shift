@@ -12,6 +12,8 @@ const App = () => {
       <div className='flexRow'>
         {driverData.map((data) => {
           return (
+            //Comment: divide card into 4 divs: "cardTitle" "card" "lowerCard" & "completeCard" -- put universal styling in completeCard, others in respective divs//
+
             /*(<div className="cardTitle">
             <Mc companyName={data.company_name}/>
             </div> )*/
