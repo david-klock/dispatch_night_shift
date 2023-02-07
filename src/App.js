@@ -13,10 +13,13 @@ const App = () => {
         {driverData.map((data) => {
           return (
             //Comment: divide card into 4 divs: "cardTitle" "card" "lowerCard" & "completeCard" -- put universal styling in completeCard, others in respective divs//
+            
 
             /*(<div className="cardTitle">
             <Mc companyName={data.company_name}/>
             </div> )*/
+
+          
             <div class="card">
               <Mc companyName={data.company_name} mc={data.MC} phone={data.phone} />
               <Driver driverName={data.diver_name} mcNumber={data.MC} dotNumber={data.DOT} />
